@@ -2,7 +2,7 @@
 
 Coding is one of my passion
 
-I’m currently working with #02569B flutter and laravel.
+I’m currently working with flutter and laravel.
 
 I’m looking forward to work more with flutter and laravel.
 
