@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nokibul-islam-nerob-556275184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nokibul islam nerob" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nokibul.82/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noki bul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTw1quFw_fN7bTDv6Xs1ftg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noki bul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nokibul-islam-nerob-556275184/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nokibul islam nerob" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nokibul.82/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noki bul" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTw1quFw_fN7bTDv6Xs1ftg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noki bul" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
