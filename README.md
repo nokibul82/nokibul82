@@ -1,3 +1,6 @@
+<div style="background-color:blue;">
+  
+
 <h1 align="center">Hi 👋, I'm Nokibul Islam Nerob</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
@@ -35,4 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nokibul82&show_icons=true&locale=en" alt="nokibul82" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nokibul82&" alt="nokibul82" /></p>
+
+</div>
 
