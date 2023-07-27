@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter, Laravel and Excel**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wl7WFbFYHyUJ-XkxWy5xN90ZGSYhrJqz/view?usp=sharing](https://drive.google.com/file/d/1Wl7WFbFYHyUJ-XkxWy5xN90ZGSYhrJqz/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Wl7WFbFYHyUJ-XkxWy5xN90ZGSYhrJqz/view?usp=sharing">CV</a>
 
 - ⚡ Fun fact **I am an on-stage dance performer. 🕺😎😉**
 
