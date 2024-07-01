@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DevOps (Amazon)**
 
-- 👨‍💻 All of my projects are available at my <a href="https://drive.google.com/file/d/1Wl7WFbFYHyUJ-XkxWy5xN90ZGSYhrJqz/view?usp=sharing">CV</a>
+- 👨‍💻 All of my projects are available at my <a href="https://drive.google.com/file/d/1YGltVoMhT-poT7eC6lSdfj-vGZBikokL/view?usp=sharing">CV</a>
 
 - 💬 Ask me about **Flutter, Laravel and Excel**
 
